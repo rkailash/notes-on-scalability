@@ -1,0 +1,12 @@
+Horizontal vs Vertical Scaling
+Ways to improve performance of an application - 
+  - Tune the application and improve design.
+  - Vertical scaling. Adding resources to the server.
+  - Adding servers to support the existing database.
+
+Partitioning data in a SQL database is very hard.
+
+This video gives a good run down of the trade offs involved in scaling databases.
+
+https://www.infoq.com/presentations/database-scalability-techniques/
+
